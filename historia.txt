@@ -1,6 +1,6 @@
-Esto es una practica de Github es todo
+Esto es el inicio del curos de Git y github
 
-Hola a todo el mundo , como estas
-espero estes bien
+me la estoy pasando bomba
 
-Esto es una parte que se añadio
+adeamas de tener varias partes de como aprender
+diferentes comandos

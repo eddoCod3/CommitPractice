@@ -1,3 +1,6 @@
 Esto es el inicio del curos de Git y github
 
 me la estoy pasando bomba
+
+adeamas de tener varias partes de como aprender
+diferentes comandos
